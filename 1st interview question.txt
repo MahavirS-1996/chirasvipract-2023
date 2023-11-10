@@ -1,0 +1,13 @@
+1 - Tell me about yourself ?
+
+2 - What is the main reason for job change ?
+ 
+  Ans- Looking for better career prospects, professional growth. Looking for new challenges at work. 
+
+3 - Tell me about your role & responsibilty of IT support engineer in this organization ?
+
+  Ans - responsible for providing technical support to clients in person and remotely. Responding in a timely manner to service issues and requests; Providing technical support . 
+     Building and implementing new development tools and infrastructure.
+   Build tools to reduce occurrence of errors and improve customer experience.
+   Develop software to integrate with internal back-end systems.
+   Perform root cause analysis of production errors and resolve technical issues.
